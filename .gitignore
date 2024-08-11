@@ -1,0 +1,44 @@
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+/bin/
+/obj/
+/out/
+
+# Debug and release configurations
+*.pdb
+*.exe
+*.dll
+*.log
+*.vspscc
+*.vssscc
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Backup & hidden files
+*~
+*.swp
+._*
+
+# Application settings
+appsettings.json
+appsettings.*.json
+
+# DotNet
+**/secret.json
+*.pubxml
+*.publish.xml
